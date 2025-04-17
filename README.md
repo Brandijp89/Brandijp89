@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I’m Brandi Jean-Pierre
+# 👋🏽 Hi, I’m Brandi!
 
 I’m a creative technologist and entrepreneur blending **data, innovation, and purpose**. I build tools and tech that empower people, simplify business, and spark impact.
 
@@ -7,7 +7,7 @@ I’m a creative technologist and entrepreneur blending **data, innovation, and 
 - 🧠 **M.S. in Data Science** – Pace University ( May 2025)  
   Focus: Applied AI, NLP, business intelligence  
 
-- 💡 **Honors B.A. in Psychology** – Touro University (June 2022)  
+- 💡 **Honors B.A. in Psychology** – Touro University  
   Focus: Research, human behavior, and mental wellness
 
 
