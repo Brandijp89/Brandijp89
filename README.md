@@ -2,6 +2,15 @@
 
 I’m a creative technologist and entrepreneur blending **data, innovation, and purpose**. I build tools and tech that empower people, simplify business, and spark impact.
 
+## 🎓 Education
+
+- 🧠 **M.S. in Data Science** – Pace University ( May 2025)  
+  Focus: Applied AI, NLP, business intelligence  
+
+- 💡 **Honors B.A. in Psychology** – Touro University (June 2022)  
+  Focus: Research, human behavior, and mental wellness
+
+
 ## 🔧 What I’m Working On
 
 - 🤖 **AI-Powered Credibility Scoring App** – NLP + LLM integration to detect credibility in text  
@@ -22,7 +31,7 @@ I’m a creative technologist and entrepreneur blending **data, innovation, and 
 - [Substack: Mom Squad Up](https://www.substack.com)  
 - [YouTube Channels Coming Soon!]
 
-> “Faith without works is dead — so I move with purpose, build with vision, and always make room for God.” ✨
+> “Faith without works is dead — so I move with purpose and build with vision." ✨
 
 
 
